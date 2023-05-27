@@ -1,0 +1,45 @@
+.home-bg-container {
+  background-color: #152850;
+  height: 100vh;
+}
+
+.header-container {
+  background-color: transparent;
+  height: 20vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 100px;
+  padding-right: 100px;
+  font-family: 'Robotos';
+}
+
+.website-logo {
+  width: 8%;
+}
+
+.logout-button {
+  padding: 10px;
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-heading {
+  font-size: 50px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+
+.card-image {
+  width: 40%;
+}
